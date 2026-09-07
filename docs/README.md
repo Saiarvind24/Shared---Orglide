@@ -1,4 +1,4 @@
-# ORGLIDE Learning Guide 🚀
+# ORGLIDE Learning Guide 
 
 ## 1. Understand the product
 Read:
@@ -13,7 +13,7 @@ Read:
 - Run backend + frontend
 - Create test users
 
-## 4. Explore & break things 😄
+## 4. Explore & break things 
 - Auth system
 - File uploads
 - Permissions
